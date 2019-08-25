@@ -22,7 +22,7 @@ public class GitAnnoyance {
             System.out.println("Hi!");
         }
         if (args[0].equals("Bye")) {
-            System.out.println("Have a great day!");
+            System.out.println("Die!");
         }
     }
 
