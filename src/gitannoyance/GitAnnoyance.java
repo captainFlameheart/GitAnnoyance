@@ -18,6 +18,15 @@ public class GitAnnoyance {
         if (args[0].equals("Hello World")) {
             System.out.println("Ah that's a classic!");
         }
+        if (args[0].equals("Hello")) {
+            System.out.println("Hi!");
+        }
+        if (args[0].equals("Bye")) {
+            System.out.println("Have a great day!");
+        }
+        if (args[0].equals("I need to poop")) {
+            System.out.println("Understandable");
+        }
     }
-    
+
 }
