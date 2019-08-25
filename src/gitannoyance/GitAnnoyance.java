@@ -24,9 +24,6 @@ public class GitAnnoyance {
         if (args[0].equals("Bye")) {
             System.out.println("Have a great day!");
         }
-        if (args[0].equals("I need to poop")) {
-            System.out.println("Understandable");
-        }
     }
 
 }
