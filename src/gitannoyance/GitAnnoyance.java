@@ -15,7 +15,9 @@ public class GitAnnoyance {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        if (args[0].equals("Hello World")) {
+            System.out.println("Ah that's a classic!");
+        }
     }
     
 }
