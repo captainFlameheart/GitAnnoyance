@@ -18,6 +18,7 @@ public class GitAnnoyance {
         System.out.println("This line should display in the console if pulling works");   
         System.out.println("No way it's working");
         System.out.println("This is actually awesome!!!");
+        System.out.println("Wow ;)");
     }
 
 }
