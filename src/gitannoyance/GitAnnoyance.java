@@ -15,7 +15,7 @@ public class GitAnnoyance {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("I wonder if this will actually work");
+        System.out.println("No way it's working");
     }
 
 }
