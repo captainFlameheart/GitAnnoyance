@@ -16,6 +16,7 @@ public class GitAnnoyance {
      */
     public static void main(String[] args) {
         System.out.println("No way it's working");
+        System.out.println("This is actually awesome!!!");
     }
 
 }
